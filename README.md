@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Serverless event based architecture**
 
-- 👨‍💻 All of my projects are available at [melraeven.nl](melraeven.nl)
+- 👨‍💻 All of my projects are available at [https://melraeven.nl](https://melraeven.nl)
 
 - ⚡ Fun fact **I'm kind of a infrastructure guy on the side :)**
 
