@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mel</h1>
 <h3 align="center">A student @Fontys working towards becoming a full stack software engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mel-raeven&label=Profile%20views&color=5d90b0&style=flat" alt="mel-raeven" /> </p>
+
+- 🌱 I’m currently learning **Serverless event based architecture**
+
+- 👨‍💻 All of my projects are available at [melraeven.nl](melraeven.nl)
+
+- ⚡ Fun fact **I'm kind of a infrastructure guy on the side :)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mel raeven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mel raeven" height="30" width="40" /></a>
