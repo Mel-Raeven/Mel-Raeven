@@ -22,3 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mel-raeven&show_icons=true&theme=dracula&locale=en" alt="mel-raeven" /></p>
 
+<img src="https://raw.githubusercontent.com/Mel-Raeven/Mel-Raeven/output/snake.svg" alt="Snake animation" />
+
