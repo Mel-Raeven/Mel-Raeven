@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://melraeven.nl](https://melraeven.nl) W.I.P
 
-- ⚡ Fun fact **I'm kind of a infrastructure guy on the side :)**
+- ⚡ Shoot me a message if you have questions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
