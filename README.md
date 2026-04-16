@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mel-raeven&label=Profile%20views&color=5d90b0&style=flat" alt="mel-raeven" /> </p>
 
-- 🌱 I’m currently learning **Serverless event based architecture**
-
-- 👨‍💻 All of my projects are available at [https://melraeven.nl](https://melraeven.nl) W.I.P
-
 - ⚡ Shoot me a message if you have questions
 
 <h3 align="left">Connect with me:</h3>
